@@ -1,0 +1,40 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background: #fff;
+  color: #000;
+}
+
+.header {
+  background-color: #000;
+  color: #fff;
+  padding: 1rem;
+}
+.header__title {
+  font-size: 2rem;
+}
+.header__menu {
+  list-style: none;
+  display: flex;
+  gap: 1rem;
+}
+.header__menu li a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.hero__banner {
+  padding: 4rem 2rem;
+  background-color: #f8f8f8;
+  text-align: center;
+}
+.hero__banner h2 {
+  font-size: 2.5rem;
+}
+
+.footer {
+  padding: 1rem;
+  text-align: center;
+  background: #eee;
+}/*# sourceMappingURL=style.css.map */
