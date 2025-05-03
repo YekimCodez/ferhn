@@ -11,6 +11,13 @@ body {
   color: #fff;
   padding: 1rem;
 }
+.header .container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 80%;
+  margin: 0 auto;
+}
 .header__title {
   font-size: 2rem;
 }
